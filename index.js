@@ -19,6 +19,6 @@ function inc(n){
   return result;
 }
 function dec(n){
-  var result = n--;
+  var result = --n;
   return result;
 }
