@@ -18,9 +18,3 @@ function inc(n){
   var result = n++;
   return result;
 }
-
-
-
-
-
-
